@@ -1,6 +1,6 @@
 # Fueling Up in Germany: A Look at Petrol Station Brands &amp; Prices
 
-This analysis explores trends and variations in petrol station prices across Germany from 2014 to 2023. By analyzing data on fuel types like diesel, E5, and E10, we aim to uncover insights into:
+This analysis explores trends and variations in petrol station prices across Germany from 2014 to 2023. By analyzing data on fuel types like diesel, E5, and E10, I aim to uncover insights into:
 
 - How do national average prices for different fuel types change over time?
 - What petrol station brands are the most dominant in the market?
